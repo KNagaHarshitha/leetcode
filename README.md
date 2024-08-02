@@ -23,4 +23,16 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KNagaHarshitha/leetcode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KNagaHarshitha/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KNagaHarshitha/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
