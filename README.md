@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/KNagaHarshitha/leetcode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
