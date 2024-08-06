@@ -5,16 +5,19 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KNagaHarshitha/leetcode/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KNagaHarshitha/leetcode/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KNagaHarshitha/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KNagaHarshitha/leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
+| [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,4 +43,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KNagaHarshitha/leetcode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
