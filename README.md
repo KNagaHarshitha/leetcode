@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KNagaHarshitha/leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/KNagaHarshitha/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KNagaHarshitha/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Hash Table
@@ -61,8 +62,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KNagaHarshitha/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KNagaHarshitha/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
