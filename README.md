@@ -41,6 +41,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KNagaHarshitha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/KNagaHarshitha/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/KNagaHarshitha/leetcode/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KNagaHarshitha/leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/KNagaHarshitha/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
