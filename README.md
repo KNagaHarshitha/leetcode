@@ -21,12 +21,14 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/KNagaHarshitha/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KNagaHarshitha/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/KNagaHarshitha/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KNagaHarshitha/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KNagaHarshitha/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
