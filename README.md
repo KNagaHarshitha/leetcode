@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KNagaHarshitha/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/KNagaHarshitha/leetcode/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/KNagaHarshitha/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KNagaHarshitha/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/KNagaHarshitha/leetcode/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KNagaHarshitha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KNagaHarshitha/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
