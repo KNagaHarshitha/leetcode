@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KNagaHarshitha/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/KNagaHarshitha/leetcode/tree/master/0053-maximum-subarray) |
+| [0238-product-of-array-except-self](https://github.com/KNagaHarshitha/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/KNagaHarshitha/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KNagaHarshitha/leetcode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/KNagaHarshitha/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
