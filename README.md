@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KNagaHarshitha/leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/KNagaHarshitha/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/KNagaHarshitha/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KNagaHarshitha/leetcode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KNagaHarshitha/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KNagaHarshitha/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
