@@ -25,6 +25,7 @@
 | [0007-reverse-integer](https://github.com/KNagaHarshitha/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KNagaHarshitha/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/KNagaHarshitha/leetcode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/KNagaHarshitha/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KNagaHarshitha/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KNagaHarshitha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/KNagaHarshitha/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/KNagaHarshitha/leetcode/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KNagaHarshitha/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KNagaHarshitha/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
