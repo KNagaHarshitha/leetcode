@@ -30,6 +30,7 @@
 | [0029-divide-two-integers](https://github.com/KNagaHarshitha/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/KNagaHarshitha/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/KNagaHarshitha/leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/KNagaHarshitha/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/KNagaHarshitha/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Bit Manipulation
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/KNagaHarshitha/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0053-maximum-subarray](https://github.com/KNagaHarshitha/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KNagaHarshitha/leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/KNagaHarshitha/leetcode/tree/master/0322-coin-change) |
+| [1013-fibonacci-number](https://github.com/KNagaHarshitha/leetcode/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KNagaHarshitha/leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/KNagaHarshitha/leetcode/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
