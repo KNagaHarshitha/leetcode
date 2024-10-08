@@ -55,6 +55,7 @@
 | [0013-roman-to-integer](https://github.com/KNagaHarshitha/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KNagaHarshitha/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KNagaHarshitha/leetcode/tree/master/0020-valid-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/KNagaHarshitha/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0070-climbing-stairs](https://github.com/KNagaHarshitha/leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/KNagaHarshitha/leetcode/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/KNagaHarshitha/leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/KNagaHarshitha/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
