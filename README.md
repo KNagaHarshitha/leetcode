@@ -9,6 +9,7 @@
 | [0063-unique-paths-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/KNagaHarshitha/leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/KNagaHarshitha/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/KNagaHarshitha/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/KNagaHarshitha/leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/KNagaHarshitha/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/KNagaHarshitha/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/KNagaHarshitha/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KNagaHarshitha/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0287-find-the-duplicate-number](https://github.com/KNagaHarshitha/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -133,4 +136,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KNagaHarshitha/leetcode/tree/master/0063-unique-paths-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KNagaHarshitha/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
