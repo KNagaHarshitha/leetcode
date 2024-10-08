@@ -28,6 +28,7 @@
 | [0009-palindrome-number](https://github.com/KNagaHarshitha/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KNagaHarshitha/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KNagaHarshitha/leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/KNagaHarshitha/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KNagaHarshitha/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/KNagaHarshitha/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/KNagaHarshitha/leetcode/tree/master/1013-fibonacci-number) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KNagaHarshitha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/KNagaHarshitha/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/KNagaHarshitha/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KNagaHarshitha/leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/KNagaHarshitha/leetcode/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/KNagaHarshitha/leetcode/tree/master/1013-fibonacci-number) |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/KNagaHarshitha/leetcode/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KNagaHarshitha/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
